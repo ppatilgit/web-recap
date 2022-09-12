@@ -40,7 +40,7 @@ h2{
 
 div {
 
-    height: 350;
+    height: fit-content;
     width: 10%;
     border: 1px solid black;
     font: Verdana;
