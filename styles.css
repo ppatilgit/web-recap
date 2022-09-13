@@ -2,7 +2,7 @@
 
 *{
     margin: 0;
-    padding: 5;
+    padding: 10;
 } 
 
 /* tag name selector */
@@ -44,4 +44,8 @@ div {
     font: Verdana;
     text-align: center;
 
+  }
+
+  img{
+    border-radius: 100px;
   }
